@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 // TEST
 // ============================
 app.get("/test", (req, res) => {
-    res.send("TEST OK ✅");
+    res.send("TEST OK V2 ✅");
 });
 
 // ============================
